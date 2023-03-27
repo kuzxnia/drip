@@ -8,6 +8,8 @@ tasks list:
     * (source)?, create playbook/recipe, 
 
   * yaml/json/pyproject(poetry plugin) support
+  * package managers
+    * apt, brew
 
 * prepare pyproject toml 
   * flit - pypi deploy
@@ -17,3 +19,6 @@ tasks list:
 * tests basic
 * ci - basic
 * docs setup
+
+
+

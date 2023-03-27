@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "pally"
+version = "0.1.0"
+description = "package manager"
+authors = ["kuzxnia <kacper.kuzniarski@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+rich = "^13.3.3"
+
+
+[tool.poetry.group.base.dependencies]
+typer = "^0.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
