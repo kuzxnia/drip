@@ -1,0 +1,19 @@
+
+tasks list:
+* poc
+  * command line:
+
+    * add, list, install, init, version, search, about, help, remove, run ?
+    * (self), update, plugins, list
+    * (source)?, create playbook/recipe, 
+
+  * yaml/json/pyproject(poetry plugin) support
+
+* prepare pyproject toml 
+  * flit - pypi deploy
+  * typer
+  * static analysis
+    * isort, mypy, black or with new python static tool ruff or so
+* tests basic
+* ci - basic
+* docs setup
